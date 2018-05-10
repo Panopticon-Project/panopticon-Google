@@ -7,3 +7,5 @@ https://cloud.google.com/security/encryption-in-transit/application-layer-transp
 https://www.wired.com/story/google-duplex-phone-calls-ai-future/?CNDID=50740756&mbid=nl_050918_daily_list1_p1
 
 https://www.wired.com/story/the-price-of-googles-new-conveniences-your-data/?CNDID=50740756&mbid=nl_050918_daily_list3_p1
+
+https://www.wired.com/gallery/everything-google-announced-io-2018/?CNDID=50740756&mbid=nl_050818_daily_list1_p2
