@@ -9,3 +9,5 @@ https://www.wired.com/story/google-duplex-phone-calls-ai-future/?CNDID=50740756&
 https://www.wired.com/story/the-price-of-googles-new-conveniences-your-data/?CNDID=50740756&mbid=nl_050918_daily_list3_p1
 
 https://www.wired.com/gallery/everything-google-announced-io-2018/?CNDID=50740756&mbid=nl_050818_daily_list1_p2
+
+https://www.wired.com/story/the-creepy-rise-of-real-companies-spawning-fictional-design/?CNDID=53659400&mbid=nl_053018_daily_list3_p2
