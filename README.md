@@ -15,3 +15,5 @@ https://www.wired.com/story/the-creepy-rise-of-real-companies-spawning-fictional
 https://www.securityweek.com/google-wont-use-artificial-intelligence-weapons
 
 https://www.securityweek.com/google-tracks-your-movements-it-or-not
+
+https://www.securityweek.com/google-accused-manipulation-track-users
