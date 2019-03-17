@@ -17,3 +17,5 @@ https://www.securityweek.com/google-wont-use-artificial-intelligence-weapons
 https://www.securityweek.com/google-tracks-your-movements-it-or-not
 
 https://www.securityweek.com/google-accused-manipulation-track-users
+
+https://www.securityweek.com/google-took-down-23-billion-bad-ads-2018
