@@ -19,3 +19,5 @@ https://www.securityweek.com/google-tracks-your-movements-it-or-not
 https://www.securityweek.com/google-accused-manipulation-track-users
 
 https://www.securityweek.com/google-took-down-23-billion-bad-ads-2018
+
+https://www.wired.com/story/google-tracks-you-privacy/
